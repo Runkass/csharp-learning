@@ -1,0 +1,11 @@
+# Build results
+bin/
+obj/
+*.user
+*.suo
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+.ReSharper/

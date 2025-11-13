@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\runka\\OneDrive\\Рабочий стол\\C#\\03BankAccount\\03BankAccount.csproj": {}
+    "C:\\C#\\03BankAccount\\03BankAccount.csproj": {}
   },
   "projects": {
-    "C:\\Users\\runka\\OneDrive\\Рабочий стол\\C#\\03BankAccount\\03BankAccount.csproj": {
+    "C:\\C#\\03BankAccount\\03BankAccount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\runka\\OneDrive\\Рабочий стол\\C#\\03BankAccount\\03BankAccount.csproj",
+        "projectUniqueName": "C:\\C#\\03BankAccount\\03BankAccount.csproj",
         "projectName": "03BankAccount",
-        "projectPath": "C:\\Users\\runka\\OneDrive\\Рабочий стол\\C#\\03BankAccount\\03BankAccount.csproj",
+        "projectPath": "C:\\C#\\03BankAccount\\03BankAccount.csproj",
         "packagesPath": "C:\\Users\\runka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\runka\\OneDrive\\Рабочий стол\\C#\\03BankAccount\\obj\\",
+        "outputPath": "C:\\C#\\03BankAccount\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\runka\\AppData\\Roaming\\NuGet\\NuGet.Config"

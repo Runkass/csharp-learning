@@ -1,0 +1,15 @@
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\obj\Debug\net9.0\03BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\obj\Debug\net9.0\03BankAccount.AssemblyInfoInputs.cache
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\obj\Debug\net9.0\03BankAccount.AssemblyInfo.cs
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\obj\Debug\net9.0\03BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\obj\Debug\net9.0\03BankAccount.sourcelink.json
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\bin\Debug\net9.0\03BankAccount.exe
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\bin\Debug\net9.0\03BankAccount.deps.json
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\bin\Debug\net9.0\03BankAccount.runtimeconfig.json
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\bin\Debug\net9.0\03BankAccount.dll
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\bin\Debug\net9.0\03BankAccount.pdb
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\obj\Debug\net9.0\03BankAccount.dll
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\obj\Debug\net9.0\refint\03BankAccount.dll
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\obj\Debug\net9.0\03BankAccount.pdb
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\obj\Debug\net9.0\03BankAccount.genruntimeconfig.cache
+C:\Users\runka\OneDrive\Рабочий стол\C#\03BankAccount\obj\Debug\net9.0\ref\03BankAccount.dll

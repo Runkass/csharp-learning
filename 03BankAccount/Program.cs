@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace MyApp{
     class BankAccount{
@@ -24,16 +24,16 @@ namespace MyApp{
             if (this._balance >= money)
             {
                 this._balance -= money;
-                Console.WriteLine($"Со счета снято {money} рублей.Текущий баланс пользователя: {this._balance} рублей");
+                Console.WriteLine($"Со счета снято {money} рублей. Текущий баланс пользователя: {this._balance} рублей");
             }
             else
             {
-            Console.WriteLine($"Не удалось снять {money} рублей.Текущий баланс пользователя: {this._balance} рублей");
+            Console.WriteLine($"Не удалось снять {money} рублей. Текущий баланс пользователя: {this._balance} рублей");
             }
         }
         
     }
-    class program{
+    class Program{
         static void Main(string[] args){
             var acc = new BankAccount("Василий", 500);
             acc.Deposit(500);

@@ -28,9 +28,6 @@ namespace myapp
                 int diff = Age - 18;
                 Console.WriteLine($"Тебе 18 уже {diff} лет");
             }
-
-
-
         }
     }
 }

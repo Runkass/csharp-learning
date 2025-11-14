@@ -7,14 +7,12 @@ namespace myapp
         private string _brand;
         private int _year;
         private bool _isRunning;
-
         public Car(string brand, int year)
         {
             _brand = brand;
             _year = year;
             _isRunning = false;
         }
-
         public void Start()
         {
             if (!_isRunning)
@@ -27,7 +25,6 @@ namespace myapp
                 Console.WriteLine("Машина уже запущена!");
             }
         }
-
         public void Stop()
         {
             if (_isRunning)
@@ -40,7 +37,6 @@ namespace myapp
                 Console.WriteLine("Машина уже остановлена!");
             }
         }
-
         public void Status()
         {
             Console.WriteLine($"Бренд машины - {_brand}, год выпуска - {_year}");

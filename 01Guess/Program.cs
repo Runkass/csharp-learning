@@ -2,7 +2,6 @@ using System;
 
 namespace MyApp
 {
-
     class Program
     {
         static void Main(string[] args){
@@ -34,7 +33,6 @@ namespace MyApp
                     Console.WriteLine("Ты угадал!");
                     break;
                 }
-                
             }
         }
     }
